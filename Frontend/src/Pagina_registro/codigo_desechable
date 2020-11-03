@@ -1,0 +1,117 @@
+<select class="custom-select d-block w-100" id="country"><option value=""><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[objeto Objeto]</font></font></option><option><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">[objeto Objeto]</font></font></option>
+  </select>
+
+    }
+
+  .btn-Regist{
+    margin-left:105px;
+    margin-right: 100px;
+    margin-top: 20px;
+  }
+
+    width: 100%;
+    max-width: 600px;
+    padding: 15px;
+    margin:15px ;
+   
+  }
+   width: 100%;
+    max-width: 200px;
+    padding: 15px;
+    margin:15px ;
+    margin-left:950px;
+
+
+
+width: 400%;
+    max-width: 200px;
+    padding: 10px;
+    margin-right:100px;
+    margin-left:575px;
+    margin-top:20px; 
+
+
+    //import Pagina_principal_madre from "../src/Pagina_Principal/Pagina_principal_madre"
+//import Login from "../src/Paguina_iniciar_sesion/Login"
+//import Registro from "../src/Pagina_registro/Registro";
+//import Perfil from "../src/Pagina_perfil_registro/Perfil"
+//import Cultura from "../src/Pagina_cultura/Cultura"
+//import  Hospedaje from "../src/Pagina_hosp_aliment/Hospedaje"
+//import Recreacion from "../src/Pagina_recreacion/Recreacion"
+//import Login from "../src/Paguina_iniciar_sesion/Login";
+
+
+<div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
+  <h5 class="my-0 mr-md-auto font-weight-normal">{props.companyname}</h5>
+  <nav class="my-2 my-md-0 mr-md-3">
+
+
+{
+  props.navBar.map(item => {
+  return (
+<a class="p-2 text-dark" href={item.url}>
+{item.name}
+  </a>
+ );
+})}
+
+   
+ 
+ 
+
+import React from "react"
+
+function Stark (props){
+
+  return(
+<div class="d-flex flex-column flex-md-row align-items-center p-3 px-md-4 mb-3 bg-white border-bottom shadow-sm">
+  <h5 class="my-0 mr-md-auto font-weight-normal">{props.companyname}</h5>
+  <nav class="my-2 my-md-0 mr-md-3">
+
+
+{
+  props.navBar.map(item => {
+  return (
+<a class="p-2 text-dark" href={item.url}>
+{item.name}
+  </a>
+ );
+})}
+
+   
+  </nav>
+  <a class="btn btn-outline-primary" href="/">Buscar</a>
+</div>
+  )
+}
+
+export default Stark
+
+
+
+
+<>
+    <Stark companyname="EXPLRE.se"
+    navBar ={
+
+      [
+        {
+          name:"Inicio",
+          url:"http:/inicio.com"
+        },
+        {
+          name:"Registro",
+          url:"http:Registro.com"
+        }, 
+        {
+          name:"Iniciar sesion",
+          url:"http:iniciarsesion.com"
+        },
+         {
+          name:"Contact enos",
+          url:"http:/Contactenos.com"
+        },
+      ]
+    }/>
+   
+</>
