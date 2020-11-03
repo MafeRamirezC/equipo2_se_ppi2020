@@ -1,0 +1,418 @@
+.imagen1 {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+ 
+  .form-signin {
+    width: 100%;
+    max-width: 330px;
+    padding: 15px;
+    margin: auto;
+}
+
+
+.btn-1{
+  
+  width: 100%;
+  max-width: 200px;
+  padding: 10px;
+  margin: auto;
+  margin-top:20px; 
+}
+.btn-2{
+ 
+  width: 400%;
+  max-width: 200px;
+  padding: 10px;
+  margin: auto;
+  margin-top:20px; 
+  
+}
+
+.btn-3{
+
+  width: 400%;
+  max-width: 200px;
+  padding: 10px;
+  margin: auto;
+  margin-top:20px; 
+  
+}
+
+ 
+
+ 
+
+
+.btn-parque{
+  
+  width: 100%;
+  max-width: 200px;
+  padding: 10px;
+  margin:10px ;
+  
+ 
+}
+
+.btn-desfile{
+  
+  width: 100%;
+  max-width: 200px;
+  padding: 10px;
+  margin:10px ;
+ 
+}
+
+.mb-Cultura{
+font-size: 40px;
+  text-align: center;
+  color:rgb(40, 245, 13);
+  margin:30px ;
+ 
+}
+
+.mb-Cult{
+  font-size: 20px;
+    text-align: center;
+    color:black;
+    margin:40px ;
+   
+  }
+
+  .imagen1{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+
+  }
+  .Nom{
+   
+    width: 300%;
+    max-width: 300px;
+    padding: 4px;
+    margin-left:300px;
+    margin-right: 100px;
+    margin-top: 60px;
+  }
+  .Apell{
+   
+    width: 300%;
+    max-width: 300px;
+    padding: 4px;
+    margin-left:105px;
+    margin-right: 100px;
+    margin-top: 60px;
+  }
+
+  .Correo{
+   
+    width: 300%;
+    max-width: 300px;
+    padding: 3px;
+    margin-left:300px;
+    margin-right: 100px;
+    margin-top: 60px;
+  }
+  .Contra{
+   
+    width: 300%;
+    max-width: 300px;
+    padding: 3px;
+    margin-left:105px;
+    margin-right: 100px;
+    margin-top: 60px;
+  }
+
+  .Nonenpre{
+   
+    width: 300%;
+    max-width: 300px;
+    padding: 3px;
+    margin-left:300px;
+    margin-right: 100px;
+    margin-top: 60px;
+  }
+
+
+  .Numeroid{
+   
+    width: 300%;
+    max-width: 300px;
+    padding: 3px;
+    margin-left:105px;
+    margin-right: 100px;
+    margin-top: 60px;
+  }
+
+  .Tipoducumento{
+   
+    width: 300%;
+    max-width: 300px;
+    padding: 3px;
+    margin-left:300px;
+    margin-right: 100px;
+    margin-top: 60px;
+  }
+
+  .Tiponegocio{
+   
+    width: 300%;
+    max-width: 300px;
+    padding: 4px;
+    margin-left:105px;
+    margin-right: 100px;
+    margin-top: 60px;
+  }
+ 
+  .btn-Regist{
+    margin-left:650px;
+    margin-right: 100px;
+    margin-top: 70px;
+  }
+
+  .mb-Perf{
+    
+    width: 100%;
+    max-width: 600px;
+    padding: 15px;
+    margin:15px ;
+    }
+  
+  .imagen3 {
+
+    display:flex ;
+    align-items:center;
+    justify-content: center;
+  }
+
+  .imagen4 {
+
+    display:flex ;
+    align-items:center;
+    justify-content: center;
+    margin-top: 20px;
+   
+  }
+
+  .imagen5 {
+
+    display:flex ;
+    align-items:center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+
+  .imagen6 {
+
+    display:flex ;
+    align-items:center;
+    justify-content: center;
+    margin-top: 20px;
+  }
+ .btn-Numero {
+
+    width: 100%;
+    max-width: 200px;
+    padding: 15px;
+    margin:15px ;
+    margin-left:565px;
+    margin-right: 100px;
+    margin-top: 40px;
+  }
+  .btn-link {
+
+   
+    
+    padding: 15px;
+    margin:15px ;
+    margin-left:495px;
+    margin-right: 100px;
+    color:white;
+  }
+
+  .btn-fincas{
+
+    width: 400%;
+    max-width: 200px;
+    padding: 10px;
+    margin: auto;
+    margin-top:20px; 
+
+  }
+
+  .btn-parque{
+ 
+    width: 400%;
+    max-width: 200px;
+    padding: 10px;
+    margin: auto;
+    margin-top:20px; 
+    
+
+  }
+  .btn-desfile{
+
+    width: 400%;
+    max-width: 200px;
+    padding: 10px;
+    margin-right:100px;
+    margin-left:575px;
+    margin-top:20px; 
+    
+  }
+
+  .imagen7{
+    display:flex ;
+    align-items:center;
+    justify-content: center;
+    margin-top:20px; 
+    
+
+  }
+
+  .imagen8{
+    display:flex ;
+    align-items:center;
+    justify-content: center;
+  }
+
+  .imagen9{
+    display:flex ;
+    align-items:center;
+    justify-content: center;
+  }
+
+  .btn-hospedaje{
+
+    width: 400%;
+    max-width: 200px;
+    padding: 10px;
+    margin: auto;
+    margin-top:20px; 
+  }
+
+  .btn-restaurante{
+
+    width: 400%;
+    max-width: 200px;
+    padding: 10px;
+    margin: auto;
+    margin-top:20px; 
+  }
+
+  .btn-camping{
+
+    width: 400%;
+    max-width: 200px;
+    padding: 10px;
+    margin: auto;
+    margin-top:20px; 
+  }
+
+  .imagen10{
+    display:flex ;
+    align-items:center;
+    justify-content: center;
+    margin-top:20px; 
+     }
+
+     .imagen11{
+    display:flex ;
+    align-items:center;
+    justify-content: center;
+    margin-top:20px; 
+     }
+    
+     .imagen12{
+      display:flex ;
+      align-items:center;
+      justify-content: center;
+      margin-top:20px; 
+       }
+
+       .btn-adrenalina{
+
+        width: 400%;
+        max-width: 200px;
+        padding: 10px;
+        margin: auto;
+        margin-top:20px;
+      }
+      
+      .btn-deportes{
+
+        width: 400%;
+        max-width: 200px;
+        padding: 10px;
+        margin: auto;
+        margin-top:20px; 
+      }
+      
+      .btn-compartir{
+
+        width: 400%;
+        max-width: 200px;
+        padding: 10px;
+        margin: auto;
+        margin-top:20px; 
+      }
+
+      .imagen13{
+        display:flex ;
+        align-items:center;
+        justify-content: center;
+        margin-top:20px; 
+         }
+       
+      .imagen14{
+          display:flex ;
+          align-items:center;
+          justify-content: center;
+          margin-top:20px; 
+           }
+ 
+       .imagen15{
+        display:flex ;
+        align-items:center;
+        justify-content: center;
+        margin-top:20px; 
+         }
+    
+         .btn-Cult{
+          margin-top:20px; 
+          margin-left: 20px; 
+         }
+        
+         .btn-Cul{
+          display:flex ;
+          align-items:center;
+          justify-content: center;
+          margin-top:20px; 
+        
+         }
+
+         .imagen16 {
+
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-top:20px; 
+        }
+        .imagen17 {
+
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-top:60px; 
+        }
+        .imagen18 {
+
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          margin-top:20px; 
+        }
