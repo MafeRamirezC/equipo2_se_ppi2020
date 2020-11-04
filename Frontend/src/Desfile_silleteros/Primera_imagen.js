@@ -1,5 +1,5 @@
 import React from "react";
-import imagenes from "../Imagenes/imagen23.jpg";
+import imagenes from "../Imagenes/imagen27.jpg";
 import "../../src/styles.css";
 
 
