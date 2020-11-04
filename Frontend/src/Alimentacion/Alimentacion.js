@@ -7,15 +7,15 @@ import "../../src/styles.css";
 import {Link} from 'react-router-dom';
 
 
-function Alimentacion(){
+function Restaurante(){
 return(
 <>
 
-<div className="Alimentacion">
-<button type="button" class="btn btn-outline-secondary btn-Cult"><Link to="/alim">Volver</Link></button>
+<div className="Restaurante">
+<button type="button" class="btn btn-outline-secondary btn-Cult"><Link to="/rest">Volver</Link></button>
 <Primera_imagen/>
 <h2 class="h3 mb-Cult font-weight-normal"> Es un lugar muy agradable , el cual nos presenta maravillosos 
-platos tipicos colombianos hechos a la leña. Un espacio ideal para compartir con los mas pequeños de la casa </h2>
+platos tipicos colombianos hechos a la leña.Un espacio ideal para compartir con los mas pequeños de la casa </h2>
 <Tercera_imagen/>
 <Cuarta_imagen/>
 
@@ -27,4 +27,4 @@ platos tipicos colombianos hechos a la leña. Un espacio ideal para compartir co
 );
 
 }
-export default Alimentacion;
+export default Restaurante;
