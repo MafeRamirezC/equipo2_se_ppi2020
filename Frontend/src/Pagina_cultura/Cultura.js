@@ -21,7 +21,7 @@ function Cultura() {
         <Primera_imagen />
         <button type="button" class="btn btn btn-outline-success btn-1"><Link to="/parque">Parque</Link></button>
         <Segunda_imagen />
-        <button type="button" class="btn btn btn-outline-success btn-1"><Link to="/desfile">Desfile</Link></button>
+        <button type="button" class="btn btn btn-outline-success btn-1"><Link to="/desfile">Desfile de silleteros</Link></button>
 
         <Tercera_imagen />
         <h2 class="h3 mb-Cultura font-weight-center">....</h2>

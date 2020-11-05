@@ -19,6 +19,7 @@ function Fincas() {
           Ángel Zapata Amariles, cuenta con restaurante donde ofrece gastronomia
           tipica colombiana en un ambiente hermoso lleno de flores.{" "}
         </h2>
+        <Segunda_imagen />
         <Tercera_imagen />
         <Cuarta_imagen />
 
