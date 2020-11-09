@@ -17,7 +17,11 @@ import Compartir from "../Pagina_recreacion/Recreacion";
 import Park from "../Parque/Park";
 import Alimentacion from "../Alimentacion/Alimentacion";
 import Camping from "../Camping/Camping";
-import Hoteles from "../Pagina_hosp_aliment/Hospedaje"
+import Hotel from "../Hotel/Hotel";
+
+
+
+
 class App extends React.Component {
   render() {
     return (
@@ -50,12 +54,12 @@ class App extends React.Component {
           <Route exact path="/dep" component={Deportes} />
           <Route exact path="/compartir" component={Compartir} />
           <Route exact path="/comp" component={Compartir} />
-          <Route exact path="/alimentacion" component={Alimentacion} />
+          <Route exact path="/hotel" component={Hotel} />
           <Route exact path="/rest" component={Hospedaje} />
-          <Route exact path="/camping" component={Camping} />
-          <Route exact path="/camp" component={Hospedaje} />
-          <Route exact path="/Hoteles" component={Hospedaje} />
           <Route exact path="/hoteles" component={Hospedaje} />
+          <Route exact path="/recre" component={Pagina_principal_madre} />
+
+          
         </Switch>
       </BrowserRouter>
     );
