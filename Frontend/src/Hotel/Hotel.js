@@ -1,12 +1,12 @@
 import React from "react";
-import Primera_imagen from "../Cultura/Primera_imagen";
-import Segunda_imagen from "../Cultura/Segunda_imagen";
-import Tercera_imagen from "../Cultura/Tercera_imagen";
-import Cuarta_imagen from "../Cultura/Cuarta_imagen";
+import Primera_imagen from "../Hotel/Primera_imagen";
+import Segunda_imagen from "../Hotel/Segunda_imagen";
+import Tercera_imagen from "../Hotel/Tercera_imagen";
+import Cuarta_imagen from "../Hotel/Cuarta_imagen";
 import "../../src/styles.css";
 import { Link } from "react-router-dom";
 
-function Hoteles() {
+function Hotel() {
   return (
     <>
       <div className="Hoteles">
@@ -26,14 +26,9 @@ suave, más firme, y una gran sensación de bienestar y relajación..{" "}
         <Tercera_imagen />
         <Cuarta_imagen />
 
-        <button type="button" class="btn btn-secondary btn-Numero">
-          Tel: 58097665
-        </button>
-        <button type="button" class="btn btn-secondary btn-link">
-          web: www.montañamagica.co
-        </button>
+   
       </div>
     </>
   );
 }
-export default Hoteles;
+export default Hotel;
