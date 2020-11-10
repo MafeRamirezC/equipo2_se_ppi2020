@@ -35,6 +35,7 @@ class App extends React.Component {
           <Route exact path="/info" component={Informacion} />
           <Route exact path="/cul" component={Pagina_principal_madre} />
           <Route exact path="/hosp" component={Pagina_principal_madre} />
+          <Route exact path="/recre" component={Pagina_principal_madre} />
           <Route exact path="/reg" component={Registro} />
           <Route exact path="/regist" component={Pagina_principal_madre} />
           <Route exact path="/log" component={Pagina_principal_madre} />
@@ -61,5 +62,3 @@ class App extends React.Component {
 }
 
 export default App;
-
-//<Route exat path="/Registro" Component={Registro}/>
