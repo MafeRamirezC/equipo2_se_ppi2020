@@ -11,14 +11,12 @@ import Informacion from "../Informacion_perfil/Informacion";
 import Fincas from "../Cultura/Fincas";
 import Parque from "../Parque/Park";
 import Desfile from "../Desfile_silleteros/Desfile";
-import Adrenalina from "../Pagina_recreacion/Recreacion";
-import Deportes from "../Pagina_recreacion/Recreacion";
-import Compartir from "../Pagina_recreacion/Recreacion";
+
 import Park from "../Parque/Park";
 import Hotel from "../Hotel/Hotel";
 import Restaurante from "../Restaurante/Restaurante"
-
 import Camping from "../Camping/Camping";
+import Adrenalina from "../Adrenalina/Adrenalina";
 
 class App extends React.Component {
   render() {
@@ -53,6 +51,8 @@ class App extends React.Component {
           <Route exact path="/restauran" component={Hospedaje} />
           <Route exact path="/campi" component={Camping} />
           <Route exact path="/camp" component={Hospedaje} />
+          <Route exact path="/adrenalina" component={Adrenalina} />
+          <Route exact path="/adre" component={Hospedaje} />
 
 
         </Switch>
