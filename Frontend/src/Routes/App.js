@@ -15,12 +15,10 @@ import Adrenalina from "../Pagina_recreacion/Recreacion";
 import Deportes from "../Pagina_recreacion/Recreacion";
 import Compartir from "../Pagina_recreacion/Recreacion";
 import Park from "../Parque/Park";
-import Alimentacion from "../Alimentacion/Alimentacion";
-import Camping from "../Camping/Camping";
 import Hotel from "../Hotel/Hotel";
+import Restaurante from "../Restaurante/Restaurante"
 
-
-
+import Camping from "../Camping/Camping";
 
 class App extends React.Component {
   render() {
@@ -48,18 +46,14 @@ class App extends React.Component {
           <Route exact path="/par" component={Cultura} />
           <Route exact path="/desfile" component={Desfile} />
           <Route exact path="/des" component={Cultura} />
-          <Route exact path="/adrenalina" component={Adrenalina} />
-          <Route exact path="/adr" component={Adrenalina} />
-          <Route exact path="/deportes" component={Deportes} />
-          <Route exact path="/dep" component={Deportes} />
-          <Route exact path="/compartir" component={Compartir} />
-          <Route exact path="/comp" component={Compartir} />
           <Route exact path="/hotel" component={Hotel} />
-          <Route exact path="/rest" component={Hospedaje} />
           <Route exact path="/hoteles" component={Hospedaje} />
-          <Route exact path="/recre" component={Pagina_principal_madre} />
+          <Route exact path="/restaurant" component={Restaurante} />
+          <Route exact path="/restauran" component={Hospedaje} />
+          <Route exact path="/campi" component={Camping} />
+          <Route exact path="/camp" component={Hospedaje} />
 
-          
+
         </Switch>
       </BrowserRouter>
     );

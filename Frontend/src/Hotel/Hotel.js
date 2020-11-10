@@ -6,7 +6,7 @@ import Cuarta_imagen from "../Hotel/Cuarta_imagen";
 import "../../src/styles.css";
 import { Link } from "react-router-dom";
 
-function Hotel() {
+function Hoteles() {
   return (
     <>
       <div className="Hoteles">
@@ -26,9 +26,9 @@ suave, más firme, y una gran sensación de bienestar y relajación..{" "}
         <Tercera_imagen />
         <Cuarta_imagen />
 
-   
+ 
       </div>
     </>
   );
 }
-export default Hotel;
+export default Hoteles;

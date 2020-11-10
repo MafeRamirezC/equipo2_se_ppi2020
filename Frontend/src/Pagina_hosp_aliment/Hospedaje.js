@@ -15,9 +15,9 @@ return(
 <h2 class="h3 mb-Cult  font-weight-normal">En el corregimiento contamos con una gran variedad de restaurantes y hoteles que puedes visitar en cualquier temporada,también contamos con espacios que pueden ser perfectos para ir de camping con tu familia y amigos estos maravillosos lugares los podemos encontrar por todo Santa Elena y en cualquier temporada del año. </h2>
 <button type="button" class="btn btn btn-outline-success btn-1"><Link to="/hotel">Hoteles</Link></button>
 <Primera_imagen/>
-<button type="button" class="btn btn btn-outline-success btn-1"><Link to="/hoteles">Restaurantes</Link></button>
+<button type="button" class="btn btn btn-outline-success btn-1"><Link to="/restaurant">Restaurantes</Link></button>
 <Segunda_imagen/>
-<button type="button" class="btn btn btn-outline-success btn-1"><Link to="/camping">Camping</Link></button>
+<button type="button" class="btn btn btn-outline-success btn-1"><Link to="/campi">Camping</Link></button>
 <Tercera_imagen/>
 <h2 class="h3 mb-Cultura font-weight-center">....</h2>
 </div>
