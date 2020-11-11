@@ -19,10 +19,15 @@ spa,planes ambientales para diferentes grupos ,reuniones empresariales y enentos
 <Segunda_imagen/>
 <Tercera_imagen/>
 <Cuarta_imagen/>
+<div className="franja">
+<button type="button" class="btn btn-secondary btn-reg">Tel: +574 3227367</button>
+<button type="button" class="btn btn-secondary btn-reg">Web:https://www.lamontañamagica.co/home/</button>
+</div>
 
-<button type="button" class="btn btn-secondary btn-Numero">Tel: +574 3227367</button>
-<button type="button" class="btn btn-secondary btn-link">Web:https://www.lamontañamagica.co/home/</button>
-<button type="button" class="btn btn-outline-secondary btn-Cult"><Link to="/inf">Guardar</Link></button>
+
+<div className="franja">
+<button type="button" class="btn btn-outline-secondary btn-reg"><Link to="/inf">Guardar</Link></button>
+</div>
 </div>
 </>
 );
