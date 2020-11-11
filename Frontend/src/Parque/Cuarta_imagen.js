@@ -5,7 +5,7 @@ import "../../src/styles.css";
 export default function Cuarta_imagen() {
   return (
     <div className="imagen16">
-      <img src={imagenes} alt="" width="450" height="250" />
+      <img src={imagenes} alt="" width="300" height="200" />
     </div>
   );
 }
