@@ -22,7 +22,7 @@ function Informacion (){
   <input type="email" id="inputEmail" class="Correo" placeholder="Nombre del responsable" required="" autofocus=""/>
   <label for="inputPassword" class="sr-only">Recidencia</label>
   
-  <input type="NumeroID" id="inputNumeroID" class="Nonenpre" placeholder="Apellidos" required="" autofocus=""/> 
+ 
   <select class="Tipoducumento" id="country">
 <option >Permiso para laborar</option>
 <option >Si</option><option>No</option>
