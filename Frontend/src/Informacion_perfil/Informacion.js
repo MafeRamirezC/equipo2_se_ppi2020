@@ -21,19 +21,13 @@ function Informacion (){
   <label for="inputEmail" class="sr-only">Nombre del responsable</label>
   <input type="email" id="inputEmail" class="Correo" placeholder="Nombre del responsable" required="" autofocus=""/>
   <label for="inputPassword" class="sr-only">Recidencia</label>
-  <input type="nombre" id="inputPassword" class="Contra" placeholder="Residencia" required=""/>
-   <label for="NumeroID"class="sr-only">Apellidos</label>
+  
   <input type="NumeroID" id="inputNumeroID" class="Nonenpre" placeholder="Apellidos" required="" autofocus=""/> 
   <select class="Tipoducumento" id="country">
 <option >Permiso para laborar</option>
 <option >Si</option><option>No</option>
 </select>
-<select class="Tiponegocio" id="country">
-<option >Tipo de Negocio</option>
-<option >Hoteleria </option><option>Restaurante</option>
-<option>Recreacion</option> <option>Otro</option>
- </select>
-  
+
  <Segunda_imagen/>
 <Tercera_imagen/>
 
