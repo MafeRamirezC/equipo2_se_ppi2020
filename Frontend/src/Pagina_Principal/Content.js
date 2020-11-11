@@ -9,7 +9,7 @@ function Content (props) {
   <nav class="my-2 my-md-0 mr-md-3">
     <Link class="p-2 text-dark" href="#">Inicio</Link>
     <Link class="p-2 text-dark" to="/registro">Registro</Link>
-    <Link class="p-2 text-dark" to="/login">Iniciar sesóin</Link>
+    <Link class="p-2 text-dark" to="/login">Iniciar sesión</Link>
     
   </nav>
   

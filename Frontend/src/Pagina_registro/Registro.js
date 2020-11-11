@@ -39,7 +39,7 @@ function Registro (){
    <label for="inpuNumeroID"class="sr-only">NumeroID</label>
   <input type="NumeroID" id="inputNumeroID" class="Numeroid" placeholder="Numero de ID" required="" autofocus=""/> 
   <label for="inpuNombreempreza" class="sr-only">Nombreempreza</label>
-  <input type="Nombreempreza" id="inputNombreempreza" class="Nonenpre" placeholder="Nombre de la empreza" required="" autofocus=""/>
+  <input type="Nombreempreza" id="inputNombreempresa" class="Nonenpre" placeholder="Nombre de la empresa" required="" autofocus=""/>
   
  
 

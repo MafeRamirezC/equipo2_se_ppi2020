@@ -21,8 +21,8 @@ function Informacion (){
   <label for="inputEmail" class="sr-only">Nombre del responsable</label>
   <input type="email" id="inputEmail" class="Correo" placeholder="Nombre del responsable" required="" autofocus=""/>
   <label for="inputPassword" class="sr-only">Recidencia</label>
-  <input type="password" id="inputPassword" class="Contra" placeholder="Recidencia" required=""/>
-   <label for="inpuNumeroID"class="sr-only">Apellidos</label>
+  <input type="nombre" id="inputPassword" class="Contra" placeholder="Residencia" required=""/>
+   <label for="NumeroID"class="sr-only">Apellidos</label>
   <input type="NumeroID" id="inputNumeroID" class="Nonenpre" placeholder="Apellidos" required="" autofocus=""/> 
   <select class="Tipoducumento" id="country">
 <option >Permiso para laborar</option>
