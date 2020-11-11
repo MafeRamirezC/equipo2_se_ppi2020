@@ -25,13 +25,14 @@ suave, más firme, y una gran sensación de bienestar y relajación..{" "}
         <Segunda_imagen />
         <Tercera_imagen />
         <Cuarta_imagen />
-
+<div className="franja">
         <button type="button" class="btn btn-secondary btn-Numero">
           Tel: 58097665
         </button>
         <button type="button" class="btn btn-secondary btn-link">
           web: www.montañamagica.co
         </button>
+        </div>
       </div>
     </>
   );
