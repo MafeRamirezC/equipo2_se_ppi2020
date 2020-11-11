@@ -17,6 +17,8 @@ import Hotel from "../Hotel/Hotel";
 import Restaurante from "../Restaurante/Restaurante"
 import Camping from "../Camping/Camping";
 import Adrenalina from "../Adrenalina/Adrenalina";
+import Deportes from "../Deportes/Deportes";
+import Compartir from "../Compartir/Compartir";
 
 class App extends React.Component {
   render() {
@@ -53,8 +55,10 @@ class App extends React.Component {
           <Route exact path="/camp" component={Hospedaje} />
           <Route exact path="/adrenalina" component={Adrenalina} />
           <Route exact path="/adre" component={Hospedaje} />
-
-
+          <Route exact path="/deportes" component={Deportes} />
+          <Route exact path="/dep" component={Hospedaje} />
+          <Route exact path="/compartir" component={Compartir} />
+          <Route exact path="/comp" component={Hospedaje} />
         </Switch>
       </BrowserRouter>
     );

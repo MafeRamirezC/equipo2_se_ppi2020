@@ -15,6 +15,7 @@ return(
 <button type="button" class="btn btn-outline-secondary btn-Cult"><Link to="/dep">Volver</Link></button>
 <Primera_imagen/>
 <h2 class="h3 mb-Cult font-weight-normal">Esta cancha sintética está ubicada en el parque central al lado del Coliseo y se presenta para jugar rugby y fútbol, es un espacio muy agradable para jugar con amigos y familiares </h2>
+<Segunda_imagen/>
 <Tercera_imagen/>
 <Cuarta_imagen/>
 
