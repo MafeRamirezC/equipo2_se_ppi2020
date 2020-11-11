@@ -14,7 +14,7 @@ return(
 <div className="Compartir">
 <button type="button" class="btn btn-outline-secondary btn-Cult"><Link to="/comp">Volver</Link></button>
 <Primera_imagen/>
-<h2 class="h3 mb-Cult font-weight-normal">es un ecoparque con hotel ubicado en la vereda piedras blancas en este lugar podemos hacer múltiples actividades para compartir en familia cómo jugar comer y almorzar y saliente en el bote. </h2>
+<h2 class="h3 mb-Cult font-weight-normal">Es un ecoparque con hotel ubicado en la vereda Piedras Blancas. En este lugar podemos hacer múltiples actividades para compartir en familia cómo jugar,comer,almorzar y pasear en bote. </h2>
 <Segunda_imagen/>
 <Tercera_imagen/>
 <Cuarta_imagen/>
