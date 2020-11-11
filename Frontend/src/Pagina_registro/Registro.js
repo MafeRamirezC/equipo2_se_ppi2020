@@ -60,7 +60,9 @@ function Registro (){
 
 
   </div >
+<div className="franja">
 <button type="button" class="btn btn-outline-secondary btn-reg"><Link to="/info">Registrarse</Link></button>
+</div>
  </form>
   
   );

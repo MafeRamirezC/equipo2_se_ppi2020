@@ -21,7 +21,13 @@ width: 340px;
 }
 
 .btn-reg{
-  
+
+ width: 100%;
+  max-width: 200px;
+  padding: 10px;
+  margin: auto;
+  margin-top:20px; 
+  margin:6px; 
  
 }
 .btn-1{
