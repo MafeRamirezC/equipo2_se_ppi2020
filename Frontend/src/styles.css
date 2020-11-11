@@ -1,8 +1,11 @@
 .imagen1 {
 
-  display: flex;
-  align-items: center;
-  justify-content: center;
+
+width: 340px;
+  height: 340px;
+  display: block;
+  margin: auto;
+  
 }
  
   .form-signin {
@@ -11,7 +14,11 @@
     padding: 15px;
     margin: auto;
 }
-
+.franja{
+  text-align: center;
+  
+ 
+}
 
 .btn-1{
   
@@ -20,6 +27,7 @@
   padding: 10px;
   margin: auto;
   margin-top:20px; 
+  margin:6px;
 }
 .btn-2{
  
@@ -28,6 +36,7 @@
   padding: 10px;
   margin: auto;
   margin-top:20px; 
+  margin:6px;
   
 }
 
@@ -38,6 +47,7 @@
   padding: 10px;
   margin: auto;
   margin-top:20px; 
+  margin:6px;
   
 }
 
