@@ -23,12 +23,7 @@ function Fincas() {
         <Tercera_imagen />
         <Cuarta_imagen />
 
-        <button type="button" class="btn btn-secondary btn-Numero">
-          Tel: 58097665
-        </button>
-        <button type="button" class="btn btn-secondary btn-link">
-          web: http://silleteros.com/fincas-silleteras/el-pensamiento/
-        </button>
+      
       </div>
     </>
   );
