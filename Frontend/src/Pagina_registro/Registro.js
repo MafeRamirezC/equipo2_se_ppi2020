@@ -5,9 +5,15 @@ import {Link} from 'react-router-dom';
 function Registro (){
 
   return(
+    <form  class="form-sinig">
+   <button type="button" class="btn btn-outline-secondary volverregis"><Link to="/regist">Volver</Link></button>
+
    
-  <form  class="form-sinig">
- <button type="button" class="btn btn-outline-secondary btn-Cult"><Link to="/regist">Volver</Link></button>
+   <div className="franja">
+  
+
+
+ {/* <button type="button" class="btn btn-outline-secondary volverregis"><Link to="/regist">Volver</Link></button> */}
  <Imagen class="Imagen1"/>
   <label  for="inpuNombre" class="sr-only ">Nombre</label>
   <input type="Nombre" id="inputNombre" class="Nom" placeholder="Nombre" required="" autofocus=""/>
@@ -52,10 +58,14 @@ function Registro (){
  <button type="button" class="btn btn-outline-secondary btn-Regist"><Link to="/info">Registrarse</Link></button>
 
 
+
   
   
   
-  </form>
+ 
+ </div >
+ </form>
+  
   );
 
   }
