@@ -38,9 +38,11 @@ function Informacion (){
 <Tercera_imagen/>
 
   </div>
-           
- <button type="button" class="btn btn-outline-secondary btn-Regist"><Link to="/perfil">Publicar</Link></button>
 
+  <div className="franja">
+           
+ <button type="button" class="btn btn-outline-secondary btn-reg"><Link to="/perfil">Publicar</Link></button>
+</div>
 
   
   
