@@ -20,6 +20,10 @@ width: 340px;
  
 }
 
+.btn-reg{
+  
+ 
+}
 .btn-1{
   
   width: 100%;
@@ -218,23 +222,23 @@ font-size: 40px;
   }
  .btn-Numero {
 
-    width: 100%;
+ /*    width: 100%;
     max-width: 200px;
     padding: 15px;
     margin:15px ;
     margin-left:565px;
     margin-right: 100px;
-    margin-top: 40px;
+    margin-top: 40px; */
   }
   .btn-link {
 
-   
+  
     
-    padding: 15px;
+   /*  padding: 15px;
     margin:15px ;
     margin-left:495px;
     margin-right: 100px;
-    color:white;
+    color:white; */
   }
 
   .btn-fincas{

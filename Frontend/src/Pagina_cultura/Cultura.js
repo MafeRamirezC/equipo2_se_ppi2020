@@ -17,11 +17,13 @@ function Cultura() {
           la feria de las flores y, algunos lugares que podras visitar son.{" "}
         </h2>
 
+<div className="franja">
         <button type="button" class="btn btn btn-outline-success btn-1"><Link to="/cultu">Fincas silleteras</Link></button>
         <Primera_imagen />
         <button type="button" class="btn btn btn-outline-success btn-1"><Link to="/parque">Parque</Link></button>
         <Segunda_imagen />
         <button type="button" class="btn btn btn-outline-success btn-1"><Link to="/desfile">Desfile de silleteros</Link></button>
+</div>
 
         <Tercera_imagen />
         <h2 class="h3 mb-Cultura font-weight-center">....</h2>

@@ -55,15 +55,12 @@ function Registro (){
 
   
            
- <button type="button" class="btn btn-outline-secondary btn-Regist"><Link to="/info">Registrarse</Link></button>
-
-
-
-  
-  
-  
  
- </div >
+
+
+
+  </div >
+<button type="button" class="btn btn-outline-secondary btn-reg"><Link to="/info">Registrarse</Link></button>
  </form>
   
   );

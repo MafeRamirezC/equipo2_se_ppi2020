@@ -14,7 +14,8 @@ return(
 <div className="Perfil">
 <button type="button" class="btn btn-outline-secondary btn-Cult"><Link to="/per">Editar</Link></button>
 <Primera_imagen/>
-<h2 class="h3 mb-Cult font-weight-normal">Es un hotel,con capacidad de alojar hasta 60 personas ,ofrecemos serivicios  alojamiento,restaurante,caminatas,spa,planes ambientales para diferentes grupos ,reuniones empresariales y enentos.  Con habitaciones acogedoras y privadas con chimenea, baño privado con agua caliente, cama tipo somier, y televisor. El spa cuenta con una serie de hidroterapias, para eliminar tensiones físicas y psicológicas. baño de lodo , exfoliación, hidratantes, masajes de relajación ,sauna ,jacuzzi, el  resultado final : piel limpia suave más firme una gran sensación de bienestar y relajación  </h2>
+<h2 class="h3 mb-Cult font-weight-normal">Es un hotel,con capacidad de alojar hasta 60 personas ,ofrecemos serivicios  alojamiento,restaurante,caminatas,
+spa,planes ambientales para diferentes grupos ,reuniones empresariales y enentos.  Con habitaciones acogedoras y privadas con chimenea, baño privado con agua caliente, cama tipo somier, y televisor. El spa cuenta con una serie de hidroterapias, para eliminar tensiones físicas y psicológicas. baño de lodo , exfoliación, hidratantes, masajes de relajación ,sauna ,jacuzzi, el  resultado final : piel limpia suave más firme una gran sensación de bienestar y relajación  </h2>
 <Segunda_imagen/>
 <Tercera_imagen/>
 <Cuarta_imagen/>

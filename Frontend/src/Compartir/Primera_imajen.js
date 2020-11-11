@@ -7,7 +7,7 @@ export default function Primera_imagen() {
   return (
     <div className="imagen16">
      
-     <img src={imagenes} alt="" width="450" height="250" />
+     <img src={imagenes} alt="" width="400" height="200" />
     
     </div>
   );

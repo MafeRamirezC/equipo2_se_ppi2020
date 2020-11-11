@@ -21,7 +21,8 @@ function Recreacion() {
           deportivos,zonas de adrenalina y zonas tranquilas para compartir un
           espacio muy agradable.
         </h2>
-
+<div className="franja">
+       
         <button type="button" class="btn btn btn-outline-success btn-1">
           <Link to="/adrenalina">Adrenalina</Link>
         </button>
@@ -34,6 +35,7 @@ function Recreacion() {
           <Link to="/compartir">Compartir</Link>
         </button>
         <Tercera_imagen />
+        </div>
 
         <h2 class="h3 mb-Cultura font-weight-center">....</h2>
       </div>

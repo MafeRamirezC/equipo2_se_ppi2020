@@ -7,7 +7,7 @@ export default function Cuarta_imagen() {
   return (
     <div className="imagen6">
      
-     <img src={imagenes} alt="" width="400" height="200" />
+     <img src={imagenes} alt="" width="350" height="200" />
     
     </div>
   );
