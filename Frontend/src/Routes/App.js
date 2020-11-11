@@ -54,11 +54,11 @@ class App extends React.Component {
           <Route exact path="/campi" component={Camping} />
           <Route exact path="/camp" component={Hospedaje} />
           <Route exact path="/adrenalina" component={Adrenalina} />
-          <Route exact path="/adre" component={Hospedaje} />
+          <Route exact path="/adre" component={Recreacion} />
           <Route exact path="/deportes" component={Deportes} />
-          <Route exact path="/dep" component={Hospedaje} />
+          <Route exact path="/dep" component={Recreacion} />
           <Route exact path="/compartir" component={Compartir} />
-          <Route exact path="/comp" component={Hospedaje} />
+          <Route exact path="/comp" component={Recreacion} />
         </Switch>
       </BrowserRouter>
     );
