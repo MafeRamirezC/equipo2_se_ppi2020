@@ -25,6 +25,7 @@ function Registro (){
   <input type="password" id="inputPassword" class="Contra" placeholder="Password" required=""/>
 
 
+
     
   <select class="Tipoducumento" id="country">
 
