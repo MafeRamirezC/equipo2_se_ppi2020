@@ -15,7 +15,7 @@ function Camping() {
         </button>
         <Primera_imagen />
         <h2 class="h3 mb-Cult font-weight-normal">
-        Es un campamento dividido en cabañas ubicado en piedras blancas.cabañas acogedoras, bien diseñadas, con buena Vista y excelente servicio.{" "}
+        Es un campamento dividido en cabañas ubicado en piedras blancas .Son cabañas acogedoras, bien diseñadas, con buena Vista y excelente servicio.{" "}
         </h2>
         <Segunda_imagen />
         <Tercera_imagen />
