@@ -16,7 +16,7 @@ function Restaurante() {
         <Primera_imagen />
         <h2 class="h3 mb-Cult font-weight-normal">
         Es un lugar muy agradable el cual nos presenta maravillosos platos típicos colombianos hechos en leña. 
-        Un espacio idela para compartir con los más pequeños de la casa y con las mascotas.{" "}
+        Un espacio ideal para compartir con los más pequeños de la casa y con las mascotas.{" "}
         </h2>
         <Segunda_imagen />
         <Tercera_imagen />

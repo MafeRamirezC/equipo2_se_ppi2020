@@ -19,7 +19,7 @@ function Hotel() {
          caminatas, spa, planes ambientales para diferentes grupos, reuniones empresariales y eventos.
 Con habitaciones acogedoras y privadas con chimenea, baño privado con agua caliente, cama tipo somier, y 
 televisor. El spa cuenta con  una serie de hidroterapias, para eliminar tensiones físicas y psicológicas. 
-Bañó de lodo, exfoliantes, hidratante, masaje de relajación, sauna, jacuzzi. El resultado final: piel limpia, 
+Baño de lodo, exfoliantes, hidratante, masaje de relajación, sauna, jacuzzi. El resultado final: piel limpia, 
 suave, más firme, y una gran sensación de bienestar y relajación..{" "}
         </h2>
         <Segunda_imagen />
