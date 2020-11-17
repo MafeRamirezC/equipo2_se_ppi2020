@@ -14,7 +14,7 @@ return(
 <div className="Parque">
 <button type="button" class="btn btn-outline-secondary btn-Cult"><Link to="/par">Volver</Link></button>
 <Primera_imagen/>
-<h2 class="h3 mb-Cult font-weight-normal">Es un parque publico en la parte central del corregimiento, este cuenta con juegos infantiles,cancha,biblioteca, restaurantes, mercados y casa de la cultura. </h2>
+<h2 class="h3 mb-Cult font-weight-normal"> Este desfile se realiza en la primera semana de agosto, en la cual nuestros queridos silleteros salen a las calles a hacer recorridos cargando sus silletas llenas de flores y de historia. </h2>
 <Segunda_imagen/>
 <Tercera_imagen/>
 <Cuarta_imagen/>
