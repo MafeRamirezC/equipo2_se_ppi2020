@@ -39,19 +39,15 @@ function Registro (){
    
    <label for="inpuNumeroID"class="sr-only">NumeroID</label>
   <input type="NumeroID" id="inputNumeroID" class="Numeroid" placeholder="Numero de ID" required="" autofocus=""/> 
-  <label for="inpuNombreempreza" class="sr-only">Nombreempreza</label>
-  <input type="Nombreempreza" id="inputNombreempresa" class="Nonenpre" placeholder="Nombre de la empresa" required="" autofocus=""/>
+  
   
  
 
 
 
-<select class="Tiponegocio" id="country">
 
-    <option >Tipo de Negocio</option>
-  <option >Hoteleria </option><option>Restaurante</option>
-  <option>Recreacion</option> <option>Otro</option>
-  </select>
+
+    
   
 
   

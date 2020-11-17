@@ -16,8 +16,11 @@ function Informacion (){
 <Primera_imagen/>
   <label  for="inpuNombre" class="sr-only ">Nombre del negocio</label>
   <input type="Nombre" id="inputNombre" class="Nom" placeholder="Nombre del negocio" required="" autofocus=""/>
-  <label for="inputPassword" class="sr-only ">Cedula</label>
-  <input type="Apellido" id="inputApellido" class="Apell" placeholder="Cedula" required=""/>
+  <select class="Tiponegocio" id="country">
+  <option >Tipo de Negocio</option>
+  <option >Hoteleria </option><option>Restaurante</option>
+  <option>Recreacion</option> <option>Otro</option>
+  </select>
   <label for="inputEmail" class="sr-only">Nombre del responsable</label>
   <input type="email" id="inputEmail" class="Correo" placeholder="Nombre del responsable" required="" autofocus=""/>
   <label for="inputPassword" class="sr-only">Recidencia</label>
